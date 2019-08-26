@@ -50,4 +50,4 @@ Note, the model checkpointing every 100 epochs in train.py (see below) can quick
   ```
   
 ## Licence
-EGG is licensed under the MIT license. The text of the license can be found [here](LICENSE).
+Fruit-tool-game is licensed under the MIT license. The text of the license can be found [here](LICENSE).
